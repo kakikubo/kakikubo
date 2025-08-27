@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kakikubo&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kakikubo&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img width="200" height="200" alt="AWS Certified Cloud Practitioner Badge" src="https://github.com/user-attachments/assets/0be50ac8-798d-4ce1-87f2-64d3efe84016" />
 
