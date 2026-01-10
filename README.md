@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![github stats](https://github-readme-stats-henna-chi-31.vercel.app/api/?username=kakikubo)
-
 <!--
 **kakikubo/kakikubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
