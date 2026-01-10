@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 </p>
 
 
-<img width="200" height="200" alt="AWS Certified Cloud Practitioner Badge" src="https://github.com/user-attachments/assets/0be50ac8-798d-4ce1-87f2-64d3efe84016" />
+<img width="100" height="100" alt="AWS Certified Cloud Practitioner Badge" src="https://github.com/user-attachments/assets/0be50ac8-798d-4ce1-87f2-64d3efe84016" />
 
