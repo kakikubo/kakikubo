@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 
 <img width="100" height="100" alt="AWS Certified Cloud Practitioner Badge" src="https://github.com/user-attachments/assets/0be50ac8-798d-4ce1-87f2-64d3efe84016" />
+<img width="100" height="100" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/d54b6c77-0f79-41d1-b6cd-e25cba890c9c" />
 
